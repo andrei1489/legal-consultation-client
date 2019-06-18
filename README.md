@@ -1,6 +1,6 @@
 # Legal Consultation
 
-[![GitHub contributors](https://img.shields.io/github/contributors/code4romania/templates-for-standard-project-md-files.svg?style=for-the-badge)](https://github.com/code4romania/templates-for-standard-project-md-files/graphs/contributors) [![GitHub last commit](https://img.shields.io/github/last-commit/code4romania/templates-for-standard-project-md-files.svg?style=for-the-badge)](https://github.com/code4romania/templates-for-standard-project-md-files/commits/master) [![License: MPL 2.0](https://img.shields.io/badge/license-MPL%202.0-brightgreen.svg?style=for-the-badge)](https://opensource.org/licenses/MPL-2.0)
+[![GitHub contributors](https://img.shields.io/github/contributors/code4romania/legal-consultation-client.svg?style=for-the-badge)](https://github.com/code4romania/legal-consultation-client/graphs/contributors) [![GitHub last commit](https://img.shields.io/github/last-commit/code4romania/legal-consultation-client.svg?style=for-the-badge)](https://github.com/code4romania/legal-consultation-client/commits/master) [![License: MPL 2.0](https://img.shields.io/badge/license-MPL%202.0-brightgreen.svg?style=for-the-badge)](https://opensource.org/licenses/MPL-2.0)
 
 Webapp client for Legal Consultation, a project designed to ease the process of public consultation with experts in Romania.
 
