@@ -50,6 +50,7 @@ npm
 
 - npm install
 - npm start
+
 Your server will start on `localhost:4200`
 
 ## Feedback
